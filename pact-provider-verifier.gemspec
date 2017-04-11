@@ -27,7 +27,7 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'faraday_middleware', '~> 0.10.0'
   gem.add_runtime_dependency 'pact-mock_service', '~> 0.8'
   gem.add_runtime_dependency 'pact-support', '~> 0.6'
-  gem.add_runtime_dependency 'json',  '1.8.3'
+  gem.add_runtime_dependency 'json',  '2.0.3'
   gem.add_runtime_dependency 'rack',  '1.6.4'
 
   gem.add_runtime_dependency 'rake', '~> 10.4', '>= 10.4.2'
